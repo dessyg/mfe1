@@ -16,9 +16,5 @@ export const APP_ROUTES: Routes = [
   {
     path: 'holiday-packages',
     component: HolidayPackagesComponent
-  },
-  {
-    path: 'web-components',
-    component: WebComponentsComponent
   }
 ];

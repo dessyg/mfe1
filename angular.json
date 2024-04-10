@@ -108,7 +108,8 @@
 							"buildTarget": "mfe1:esbuild:production"
 						},
 						"development": {
-							"buildTarget": "mfe1:esbuild:development"
+							"buildTarget": "mfe1:esbuild:development",
+              "port": 4201
 						}
 					},
 					"defaultConfiguration": "development",
